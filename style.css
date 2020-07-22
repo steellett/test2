@@ -307,6 +307,10 @@
             width: 100%;
             justify-content: space-around;
         }
+       .video-block h1 ul li {
+            font-size: 0.8em;
+            letter-spacing: 0.5em;
+        }
     }
     
     @media screen and (max-width: 375px) {
