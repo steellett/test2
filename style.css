@@ -281,7 +281,7 @@
         }
         .video-block h1 ul li {
             font-size: 0.8em;
-            letter-spacing: 0.5em;
+            letter-spacing: 0.3em;
         }
     }
     
@@ -291,6 +291,10 @@
         }
         .offer-button {
             width: 100%;
+        }
+        .video-block h1 ul li {
+            font-size: 0.6em;
+            letter-spacing: 0.2em;
         }
         .offer-button .order {
             font-size: 2em;
@@ -310,10 +314,6 @@
         footer form .selects {
             width: 100%;
             justify-content: space-around;
-        }
-       .video-block h1 ul li {
-            font-size: 0.8em;
-            letter-spacing: 0.5em;
         }
     }
     
